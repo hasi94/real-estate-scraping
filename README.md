@@ -45,7 +45,7 @@ Under the following terms:
 
 See the [full license](https://creativecommons.org/licenses/by-nc/4.0/) for details.
 
-#Acknowledgements
+# Acknowledgements
 <ul>
     <li><a href="https://developers.google.com/custom-search/docs/tutorial/introduction">Google Custom Search API Documentation</a></li>
     <li><a href="https://www.php.net/manual/en/book.pcre.php">Regular Expressions - PHP Manual</a></li>
